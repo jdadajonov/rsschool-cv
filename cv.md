@@ -8,7 +8,7 @@ Telephone|E-mail|Telegram ID
 ## Summary
 + my goal is to acquire perspective profession to realize my potential.
 + vast experience in finance and systems analysis.
-
+__Even if the work and training experience mainly relates to financial and accounting sphere, I've been involved in many IT projects which assumed process optimization and automation. As a systems analyst I've mastered my analytical skills.__
 
 ## Skills
 1. Python (beginner), 1C-professional (beginner);
@@ -25,6 +25,12 @@ function fancyAlert(arg) {
 ```
 
 ## Experience
+Duration|Position
+--------|--------
+5 years|Daytrader on NYSE
+2 years|Financial director / chief accountant
+3 years|CEO of a leasing company
+2 years|Head of systems analysis and financial department
 
 ## Education
 Year|Institution|Qualification/Degree
