@@ -16,10 +16,22 @@ Telephone|E-mail|Telegram ID
 2. Vast experience in agile environment;
 
 ## Code examples (LATEST)
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
 
+## Experience
 
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+## Education
+Year|Institution|Qualification/Degree
+----|-----------|--------------------
+2001-2002| University of world economy and diplomacy|International economic relations/Bachelor
+2002-2005| Westminster international university in Tashkent| Business administration/Bachelor of arts
+2014-2016| Auditors chamber of Uzbekistan| Yearly auditors training
+2017|VENKON LLC| 1C-professional
+
+## English (C2 - IELTS 8)
