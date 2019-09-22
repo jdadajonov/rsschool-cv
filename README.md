@@ -1,2 +1,2 @@
 # rsschool-cv
-CV for RSSchool (EPAM)
+My CV for EPAM (hometask for git basics) [Click for CV](https://jdadajonov.github.io/rsschool-cv/cv)
